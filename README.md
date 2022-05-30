@@ -1,12 +1,6 @@
-# sobolevn's dotfiles
+# Launchpad's dotfiles (Forked from sobolevn)
 
-![sobolevn's dotfiles](https://raw.githubusercontent.com/sobolevn/dotfiles/master/media/hyper.png)
-
-Here are some articles I wrote about my environment:
-
-- ["Instant +100% command line productivity boost"](https://dev.to/sobolevn/instant-100-command-line-productivity-boost)
-- ["Using better CLIs"](https://dev.to/sobolevn/using-better-clis-6o8)
-- ["6 mac apps that fit everyone"](https://sobolevn.me/2019/07/6-best-mac-apps)
+![Launchpad's dotfiles](https://raw.githubusercontent.com/sobolevn/dotfiles/master/media/hyper.png)
 
 
 ## Contents
@@ -24,7 +18,7 @@ What's in there?
 We are using [`dotbot`](https://github.com/anishathalye/dotbot/)
 to set things up. Steps:
 
-1. Clone this repo with: `git clone https://github.com/sobolevn/dotfiles dotfiles`
+1. Clone this repo with: `git clone https://github.com/rdp-studio/dotfiles dotfiles`
 2. `cd dotfiles/`
 3. Run: [`bash ./install`](https://github.com/sobolevn/dotfiles/blob/master/install)
 
